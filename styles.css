@@ -119,6 +119,6 @@ footer{
 }
 .name:hover{
     color: var(--cyan);
-    cursor: grabbing;
+    cursor: grab;
 }
 
